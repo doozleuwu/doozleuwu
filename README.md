@@ -8,5 +8,5 @@ class Programmer:
         print(self.name)
 
 if __name__ == '__main__':
-    doozle = Programmer(name = 'doozle')
+    doozle = Programmer(name = 'doozle#4585')
     doozle.print_name()
